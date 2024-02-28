@@ -1,0 +1,175 @@
+*{
+    margin: 0px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+span{
+    color: orangered;
+} 
+.title{
+    font-size: 45px;
+    font-weight: 800;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 200px;
+}
+ ul{
+    align-items: center;
+ }      
+.nav-ul{
+    display: flex;
+    list-style: none;
+    align-items: centen; 
+}
+ul li{
+    margin-left: 40px;
+}
+.li-button{
+    background-color: orangered;
+    border-radius: 5px;
+    height: 64px;
+    width: 150px;
+    color: white;
+    border: none;
+    font-size: 20px;
+}
+.fast-div{
+    display: flex;
+    align-content: center;
+    margin: 0px 50px 0px 200px; 
+    background-image: url(../header_bg.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+.div-btn2{
+padding: 0px 25px;
+color: #FD6E0A;
+border-color: #FD6E0A;
+height: 64px;
+font-size: 20px;
+font-weight: 700;
+border-radius: 5px;
+border: 1px solid rgba(255, 68, 0, 0);
+align-items: center;
+margin: 30px;
+}
+.header-class{
+    background-color: #FFF8F3;
+    background-image: url(../developer.png);
+    background-repeat: no-repeat;
+}
+.sub-title{
+    font-size: 45px;
+    width: 600;
+    color: #757575;
+}
+.title-name{
+   text-shadow: 0px 4px 4px #757575; 
+   font-size: 85px;
+   font-weight: 700;
+}
+.peragrap{
+    font-size: 10px;
+    color: #757575;
+    margin-top: 20px;
+}
+.btn1{
+display: flex;
+}
+.btn2{
+    display: flex;
+}
+/* .daiyal{
+    margin-right: 10px;
+} */
+.div3{
+    margin: 30px;
+}
+.About{
+    margin: 150px 200px;
+    padding: 150px 130px;
+    background-color: #FFF8F3;
+}
+.roja{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.About-div{
+    text-align: center;
+    border-radius: 10px;
+
+}
+.peragrap2{
+    font-size: 18px;
+    color: #757575;
+}
+.About-table{
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-around;
+}
+.small{
+    font-size: 20px;
+    color: #757575;
+}
+/* what i do */
+.What-i-do{
+    margin: 130px 200px;
+}
+
+.what-title{
+text-align: center;
+font-size: 35px;
+}
+.peragrap-3{
+    text-align: center;
+    color: #757575;
+font-size: 18px;
+font-weight: 400;
+padding: 35px 200px;
+}
+.skill-grantfather{
+display: flex;
+margin-top: 50px;
+
+}
+.skill-pera{
+    text-align: center;
+    font-size: 16px;
+    color: #757575;
+}
+.skill-father{
+    border-radius: 5px;
+    background-color: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    padding: 30px;
+    margin-right: 20px;
+}
+.skill-title{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.summary{
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+.resume-sele{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.Resume{
+margin: 0px 200px;
+}
+.durutto{
+    justify-content: space-between;
+}
+
+
+    
+
+
+
+

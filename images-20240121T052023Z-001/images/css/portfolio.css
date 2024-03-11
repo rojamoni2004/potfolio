@@ -153,7 +153,7 @@ margin-top: 50px;
 .summary{
     text-align: center;
     font-size: 35px;
-    margin-bottom: 10px;
+    margin-bottom: 100px;
 }
 .resume-sele{
     display: flex;
@@ -161,11 +161,125 @@ margin-top: 50px;
     margin-top: 10px;
 }
 .Resume{
-margin: 0px 200px;
+margin: 0px 200px
 }
-.durutto{
+.educa{
+color: #474747;
+font-size: 30px;
+font-weight: 700;
+margin-bottom: 30px;
+}
+.master{
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+.harvard{
+    color: #757575;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px; 
+}
+.pera{
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    /* padding: 0px 117px 0px 0px; */
+}
+hr{
+width: 80%;
+}
+.Download{
+    margin-top: 50px;
+    text-align: center;
+    width: 200px;
+    height: 64px;
+    border-radius: 5px;
+    background-color: #FD6E0A;
+    font-size: 20px;
+    color: #FFF;
+    border: none;
+}
+.section{
+    display: flex;
+    padding: 100px 100px 100px 200px;
+    /* width: 1600px; */
+    /* height: 580px; */
+    background-color: #FFF8F3;
+    margin-top: 80px;
     justify-content: space-between;
+} 
+/* .let1{
+    color: #181818;
+    font-size: 35px;
+    font-weight: 700;
+} */
+.let2{
+    color: #181818;
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 25px;
 }
+.ul{
+list-style: none;
+}
+.lets-pera{
+    color: #474747;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+.name{
+    width:460px ;
+    height: 64px;
+    border-radius: 5px;
+    border:none ;
+    margin-bottom: 24px;
+    font-size: 16px;
+    background: var(--white color, #FFF);
+    font-size: 16px;
+    font-weight: 400;
+    /* margin: 15px 0px; */
+    padding: 15px 30px;
+}
+.input-area{
+    display: flex;
+    flex-direction: column;
+}
+.big-sister{
+    /* color: #181818;
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 25px; */
+}
+.sister-pera{
+    /* color: #757575;
+    padding: 18px 30px; */
+}
+.li-button{
+    width: 150px;
+    height: 64px;
+    border-radius: 5px;
+    border: none;
+    color: var(--white color, #FFF);
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 40px;
+}
+.massage{
+    border-radius: 5px;
+    border: none;
+    width: 460px;
+    height: 180px;
+    font-size: 16px;
+    font-weight: 400;
+    background-color: #fff;
+    color: #757575;
+    padding:15px 30px ;
+}
+
 
 
     
